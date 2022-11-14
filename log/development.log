@@ -1,0 +1,120 @@
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:45:57 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 83.4ms | Allocations: 673)
+Completed 200 OK in 438ms (Views: 169.5ms | ActiveRecord: 0.0ms | Allocations: 6563)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:47:21 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 352)
+Completed 200 OK in 5ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 1101)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:47:47 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 353)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1107)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:48:05 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 353)
+Completed 200 OK in 4ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1107)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:48:24 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 565)
+Completed 200 OK in 92ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 5251)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:48:39 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 353)
+Completed 200 OK in 6ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 1108)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:49:11 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 352)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 1101)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:49:12 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 16)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 217)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:49:18 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 352)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1101)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:50:22 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/antrix/.rvm/gems/ruby-2.7.3/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 15)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 212)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:51:10 +0530
+  
+ActionController::RoutingError (uninitialized constant ArticlesController
+Did you mean?  AbstractController):
+  
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:52:42 +0530
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.4ms | Allocations: 336)
+  Rendered layout layouts/application.html.erb (Duration: 1705.6ms | Allocations: 99034)
+Completed 200 OK in 1761ms (Views: 1713.9ms | ActiveRecord: 0.0ms | Allocations: 102943)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:53:02 +0530
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 133)
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 2713)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 3504)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:53:10 +0530
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 130)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 2697)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms | Allocations: 3488)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 15:53:51 +0530
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 130)
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 2703)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 3493)
+
+
+Started GET "/" for 127.0.0.1 at 2022-11-14 16:08:48 +0530
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 336)
+  Rendered layout layouts/application.html.erb (Duration: 131.2ms | Allocations: 35164)
+Completed 200 OK in 180ms (Views: 138.7ms | ActiveRecord: 0.0ms | Allocations: 39074)
+
+
