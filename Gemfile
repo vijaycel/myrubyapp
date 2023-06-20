@@ -51,6 +51,7 @@ gem "bootsnap", require: false
 
 #vijay adding for filestack
 gem 'filestack'
+gem 'filestack-rails'
 
 
 

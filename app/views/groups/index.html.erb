@@ -1,0 +1,9 @@
+<%#= filestack_picker_element 'button test', 'callbackForButton', id: 'someuniqueid', input_id: 'someuniqueinputid', pickerOptions: { 'fromSources': 'facebook', 'maxFiles': 50 } %>
+
+<%= form_for @user do |f| %>
+  <div>
+    <%= f.filestack_field :picture, 'Upload Your Avatar!', id: 'userpicture', input_id: 'userpicture' %>
+  </div>
+
+  <%= f.submit %>
+<% end %>
