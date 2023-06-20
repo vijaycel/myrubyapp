@@ -96,6 +96,9 @@ GEM
       parallel (~> 1.11, >= 1.11.2)
       progress_bar
       typhoeus (~> 1.1)
+    filestack-rails (5.5.2)
+      filestack (~> 2.9, >= 2.9.3)
+      rails (>= 4.0)
     globalid (1.0.0)
       activesupport (>= 5.0)
     highline (2.1.0)
@@ -230,6 +233,7 @@ DEPENDENCIES
   capybara
   debug
   filestack
+  filestack-rails
   importmap-rails
   jbuilder
   puma (~> 5.0)

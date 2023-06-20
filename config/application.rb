@@ -18,5 +18,11 @@ module Myrubyapp
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+
+    config.filestack_rails.api_key = 'Akw6lDqdURwyHnQZ25pPjz'
+    #config.filestack_rails.client_name = 'custom_client_name'
+
+    #config.filestack_rails.app_secret = '6WZPGCIDG5EJRBGWQ5FNPHPPKU'
+    config.filestack_rails.security = {}
   end
 end
