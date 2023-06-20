@@ -1,2 +1,2 @@
 # myrubyapp
-Sample ROR app for integration
+Sample ROR App for integration
