@@ -1,0 +1,35 @@
+<%
+
+require 'filestack'
+
+api_key = 'Akw6lDqdURwyHnQZ25pPjz'
+api_secret = '6WZPGCIDG5EJRBGWQ5FNPHPPKU'
+
+security_object = FilestackSecurity.new(api_secret, options: {expiry: 1688065200})
+
+client = FilestackClient.new(api_key, security: security_object)
+
+#uploader = client.upload(filepath: '/home/cel/Downloads/DSC_0417.jpg')
+
+%>
+
+<%#= client.inspect %>
+<%#= uploader.upload_response %>
+
+
+<%
+	#To transform an uploaded image, ie: customizingl like resizing
+	handle = 'v8kSHgjSXikqNoeUUY4m'
+	filelink = FilestackFilelink.new(handle, apikey: api_key, security: security_object)
+	transform = filelink.transform.resize(width: 100, height: 100).flip
+%>
+
+<%= transform.url %>
+
+
+
+<%  #To delete a file
+	#filelink_handle.delete
+%>
+
+
