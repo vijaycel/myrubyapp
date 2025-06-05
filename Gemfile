@@ -49,7 +49,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 
-#vijay adding for filestack
+#vijay adding for filestack test
 gem 'filestack'
 gem 'filestack-rails'
 
